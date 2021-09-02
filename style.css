@@ -1,0 +1,17 @@
+html body {
+  margin: 0;
+  background-image: url("background.jpg");
+}
+
+#time {
+  font-size: 15vw;
+  position: relative;
+  top: 200px;
+  text-align: center;
+  font-family: "Mali", cursive;
+  width: 75%;
+  margin: auto;
+  background: linear-gradient(to right, #191970, #b491c8);
+  color: #fff;
+  border-radius: 100px;
+}
